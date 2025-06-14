@@ -2,6 +2,8 @@
 
 **JavIsland** is a wave-based 2D survival game developed in Java. It was created as a group project of five people for the Agile Object-Oriented Software Development course (02160) at the Technical University of Denmark (DTU). The project showcases a modular architecture, clean coding practices, and iterative development. All the code was written entirely by our team.
 
+<img width=auto alt="Screenshot 2025-06-14 at 20 49 12" src="https://github.com/user-attachments/assets/eba849b2-f541-43d1-acfb-dd5dd381c7aa" />
+
 ## 🎮 Game Overview
 
 In *JavIsland*, the player must survive successive waves of enemies on a procedurally generated island. You can gather resources, build defensive blocks, and engage in both melee and ranged combat.
