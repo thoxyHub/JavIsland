@@ -28,7 +28,7 @@ The project follows a clear **Model-View-Controller (MVC)** architecture:
 ### Building & Running
 1. Clone the repository:
    ```bash
-   git clone https://gitlab.gbar.dtu.dk/02160-f25/group-16.git
+   git clone https://github.com/thoxyHub/JavIsland.git
    ```
 2. Open the project in your IDE.
 3. Run `Play.java` in `src/main/java/com/group16`.
